@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ludacris-Plaid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...blockchain, dapps, smart contracts, solidity, vuejs, OPSEC, crypto, vintage stuff, linux, you name it.
+- 🌱 I’m currently learning ...solidity smart contracts and dapp development.
+- 💞️ I’m looking to collaborate on ...anything and everything.
+- 📫 How to reach me ...indicationsmedia@protonmail.com
+-                       indicationsmedia.netlify.app
 
 <!---
 Ludacris-Plaid/Ludacris-Plaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
