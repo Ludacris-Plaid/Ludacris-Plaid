@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...solidity smart contracts and dapp development.
 - 💞️ I’m looking to collaborate on ...anything and everything.
 - 📫 How to reach me ...indicationsmedia@protonmail.com
--                       indicationsmedia.netlify.app
+-                       indicationsmedia.xyz
 
 <!---
 Ludacris-Plaid/Ludacris-Plaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
